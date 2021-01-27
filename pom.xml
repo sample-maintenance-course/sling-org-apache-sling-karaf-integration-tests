@@ -35,6 +35,9 @@
   <description>Integration Tests for Apache Sling Karaf</description>
 
   <properties>
+    <sonar.projectKey>sample-maintenance-course_sling-org-apache-sling-karaf-integration-tests</sonar.projectKey>
+    <sonar.organization>sample-maintenance-course</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <org.ops4j.pax.exam.version>4.13.4</org.ops4j.pax.exam.version>
   </properties>
 
